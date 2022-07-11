@@ -1,0 +1,45 @@
+{
+  "food": [
+    {
+      "id": "1",
+      "title": "Bread omlette",
+      "description" :"Omelette is one the tastiest and easiest breakfast you can make on a busy morning. Pair it with bread and your wholesome meal is ready. This Bread Omelette is a delicious recipe that is easy to prepare and can be served hot with sauces and dips of your choice. To make this omelette recipe, you will require brown bread, eggs, green chilli, butter and onions with salt to taste. Try this delicious recipe now by following a few simple steps and enjoy a scrumptious breakfast with your family.",
+      "image" : "https://static.toiimg.com/thumb/58278877.cms?width=680&height=383&imgsize=1329142"
+
+    },
+    {
+      "id": "11",
+      "title": "Chicken Popcorn",
+      "description" :"Craving for yummy Chicken popcorns? Then why order, when you can prepare these at home easily. Chicken Popcorn is a delicious appetizer recipe that you can prepare for your family and friends on occasions like kitty party, game night, and pot luck; it will be an instant hit among your guests. This delectable chicken recipe is cooked using chicken breast, which is dipped into a batter of all purpose flour and a melange of spices and then deep fried in refined oil. You can pair this yummy appetizer with your favourite beverage for a get-together with friends! Best enjoyed with tomato ketchup, you can eat these chicken popcorn with Schezwan sauce or mayonnaise. Try this mouth-watering non-vegetarian recipe and prepare at home in three easy steps!",
+      "image" : "https://static.toiimg.com/thumb/58124717.cms?width=680&height=383&imgsize=454643"
+    },
+    {
+      "id": "111",
+      "title": "Almond Soup",
+      "description":"Almond Soup is a healthy recipe. Made with raw almonds, veg stock and fresh cream, this easy-to-make recipe can be prepared in minutes and kids will love it. Try this simple soup recipe.",
+      "image" : "https://static.toiimg.com/thumb/57574525.cms?width=680&height=383&imgsize=400062"
+    },
+    {
+      "id": "1111",
+      "title": "Spinach Waffle",
+      "description":"Relish the interesting yet toothsome combination of spinach and eggs by preparing this Spinach Waffle recipe. This is a scrumptious American recipe that you can make for your family and friends in breakfast, and we are sure it will be a healthy start to your day! Perfect for someone who is trying to get in shape, this high-protein recipe will be a perfect meal for you. Serve this delicious dish at a brunch party and your guests will be asking more of it. To lift up the flavours of this delectable dish, make sure to pair it with a regular cup of coffee or tea. So, waste no time, roll up your sleeves and lets get cooking!",
+      "image" : "https://static.toiimg.com/thumb/57574525.cms?width=680&height=383&imgsize=400062"
+    },
+    {
+      "id": "11111",
+      "title": "Chocolate Oats",
+      "description":"Bored of the usual boring breakfast options? Then try this super delicious and chocolaty breakfast bowl, which will give you enough energy in the morning to sail through the day. If you are someone who is too lazy in the morning or if you don't have time to prepare breakfast in the morning, then all you need to do is make this recipe at night and leave it in the fridge overnight. The next morning, your tasty and healthy breakfast is ready to be savoured. Made with banana, oats, almond milk, cocoa powder and honey, this sweet delight is the healthiest way to begin your day with!",
+      "image" : "https://static.toiimg.com/thumb/83502865.cms?width=680&height=383&imgsize=206948"
+    }
+  ],
+  "done": [
+    {
+      "id": 1,
+      "title": "todo#00"
+    },
+    {
+      "id": 2,
+      "title": "todo#00"
+    }
+  ]
+}

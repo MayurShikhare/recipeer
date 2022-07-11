@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Nixie+One&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.details{
+display: flex;
+gap:2rem;
+margin: 1rem 2rem;
+}
+
+.details-img{
+  object-fit: cover;
+}
+
+.details-title{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.8rem;
+  text-transform: uppercase;
+  letter-spacing: .1rem;
+  margin-bottom: 1rem;
+
+}
+.details-description{
+  font-family: 'Montserrat', sans-serif;
+  max-width: 45ch;
+  line-height: 1.6rem;
+
+}
+
+.details-like{
+  margin-top: 1rem;
+  padding: .4rem 2rem;
+  border:1px solid rgb(82, 255, 111);
+  background-color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  text-align: center;
+  letter-spacing: .1rem;
+  transition: all .2s ease-in-out;
+
+
+}
+
+.active{
+  margin-top: 1rem;
+  padding: .5rem 2rem;
+  border:1px solid rgb(82, 255, 111);
+  background-color: rgb(82, 255, 111);
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  text-align: center;
+  color: white;
+  letter-spacing: .1rem;
+  transition: all .2s ease-in-out;
+
+}
+
+.back{
+margin: 1rem 2rem;
+padding: .2rem 1rem;
+/* border: 1px solid salmon; */
+box-shadow: -1px -5px 10px 1px rgb(241, 241, 241);
+transition: all .2s linear;
+}
+.back:hover{
+  box-shadow: 0 10px 10px 1px rgb(240, 240, 240);
+
+}
+
+.back::before{
+  content: "<<";
+}
